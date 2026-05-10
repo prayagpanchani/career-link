@@ -167,4 +167,4 @@ This project helped improve my understanding of:
 
 ## Author
 
-Shrey Naik
+Prayag Panchani
